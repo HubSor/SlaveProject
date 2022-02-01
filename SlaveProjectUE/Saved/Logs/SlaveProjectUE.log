@@ -1514,3 +1514,33 @@ Sky Sphere
 [2022.02.01-17.44.47:783][355]AssetCheck: New page: Asset Save: multiple assets
 [2022.02.01-17.44.47:783][355]LogContentValidation: Display: Validating World /Game/StartMenu.StartMenu
 [2022.02.01-17.44.47:783][355]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StartMenu_BuiltData.StartMenu_BuiltData
+[2022.02.01-17.56.00:180][873]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.01-17.56.00:198][873]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.01-17.56.01:967][ 23]LogContentBrowser: Attempting asset rename: NewFolder -> Art
+[2022.02.01-17.56.01:968][ 23]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.01-17.56.19:173][209]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../Grafiki/20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper.jpg)
+[2022.02.01-17.56.19:405][209]LogTexture: Display: Building textures: 20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper (BGRA8, 4444X2259)
+[2022.02.01-17.56.25:894][711]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.02.01-17.56.25:904][711]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StartMenu' took 0.077
+[2022.02.01-17.56.25:905][711]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StartMenu/MenuWidget] ([4] browsable assets)...
+[2022.02.01-17.56.25:905][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/StartMenu/MenuWidget]
+[2022.02.01-17.56.25:905][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/MenuWidget" FILE="../../../../SlaveProject/SlaveProjectUE/Saved/Autosaves/Game/StartMenu/MenuWidget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.02.01-17.56.25:920][711]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/MenuWidget_Auto2C5950CE24BACF511E1049E896F191821.tmp' to '../../../../SlaveProject/SlaveProjectUE/Saved/Autosaves/Game/StartMenu/MenuWidget_Auto2.uasset'
+[2022.02.01-17.56.25:922][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Art/20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper] ([1] browsable assets)...
+[2022.02.01-17.56.25:927][711]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Art/20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper.20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper]
+[2022.02.01-17.56.25:927][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Art/20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper]
+[2022.02.01-17.56.26:136][711]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/20094-WarriorFantasy-Gladiator-4C3FA4B664B73FAD86F6CDB80D7A1DADE.tmp' to '../../../../SlaveProject/SlaveProjectUE/Saved/Autosaves/Game/Art/20094-WarriorFantasy-Gladiator-4k-Ultra-HD-Wallpaper_Auto2.uasset'
+[2022.02.01-17.56.26:137][711]LogFileHelpers: Auto-saving content packages took 0.232
+[2022.02.01-17.56.45:155][ 10]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.01-17.56.50:706][404]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.01-17.58.05:367][153]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.01-17.58.22:634][664]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/MenuWidget" FILE="../../../../SlaveProject/SlaveProjectUE/Content/StartMenu/MenuWidget.uasset" SILENT=true
+[2022.02.01-17.58.22:645][664]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/MenuWidget4095942E4CDC25EB55EDE89A94B3E8EE.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/StartMenu/MenuWidget.uasset'
+[2022.02.01-17.58.22:660][664]AssetCheck: New page: Asset Save: MenuWidget
+[2022.02.01-17.58.22:661][664]LogContentValidation: Display: Validating WidgetBlueprint /Game/StartMenu/MenuWidget.MenuWidget
+[2022.02.01-17.58.23:372][724]BlueprintLog: New page: Compile MenuWidget
+[2022.02.01-17.58.23:438][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.02.01-17.58.23:757][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StartMenu/MenuWidget" FILE="../../../../SlaveProject/SlaveProjectUE/Content/StartMenu/MenuWidget.uasset" SILENT=true
+[2022.02.01-17.58.23:782][747]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/MenuWidget05EF5451411E3BAE308497B49B5EA392.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/StartMenu/MenuWidget.uasset'
+[2022.02.01-17.58.23:804][747]AssetCheck: New page: Asset Save: MenuWidget
+[2022.02.01-17.58.23:804][747]LogContentValidation: Display: Validating WidgetBlueprint /Game/StartMenu/MenuWidget.MenuWidget
