@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SlaveProjectUE",
+			"Path": "D:\\Gry i Programy\\SlaveProject\\SlaveProjectUE\\Source\\SlaveProjectUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SlaveProjectUEEditor",
+			"Path": "D:\\Gry i Programy\\SlaveProject\\SlaveProjectUE\\Source\\SlaveProjectUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

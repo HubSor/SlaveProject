@@ -1,0 +1,3 @@
+D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\Definitions.SlaveProjectUE.h
+D:\Gry i Programy\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Gry i Programy\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

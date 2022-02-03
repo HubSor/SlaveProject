@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SlaveProjectUE.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D3B639EC-F7F3-4203-855E-91706477518B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SlaveProjectUE.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SlaveProjectUEEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{989431AC-4604-4622-AAED-7B12AEC6CAEA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SlaveProjectUE">
+      <UniqueIdentifier>{5264DD78-7007-4A29-A9AE-D6B001F2EF9B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SlaveProjectUE\SlaveProjectUE.Build.cs">
+      <Filter>Source\SlaveProjectUE</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SlaveProjectUE\SlaveProjectUE.cpp">
+      <Filter>Source\SlaveProjectUE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlaveProjectUE\SlaveProjectUE.h">
+      <Filter>Source\SlaveProjectUE</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SlaveProjectUE\SortingLibrary.cpp">
+      <Filter>Source\SlaveProjectUE</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SlaveProjectUE\SortingLibrary.h">
+      <Filter>Source\SlaveProjectUE</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
