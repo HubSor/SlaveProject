@@ -35,11 +35,5 @@
     <ClInclude Include="..\..\Source\SlaveProjectUE\SlaveProjectUE.h">
       <Filter>Source\SlaveProjectUE</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\SlaveProjectUE\SortingLibrary.cpp">
-      <Filter>Source\SlaveProjectUE</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SlaveProjectUE\SortingLibrary.h">
-      <Filter>Source\SlaveProjectUE</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
