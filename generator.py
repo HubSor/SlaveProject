@@ -121,4 +121,4 @@ if __name__ == "__main__":
 
     nicks = gen.generate_nicknames()
     print(nicks, len(nicks))
-    export_nicknames_to_csv("HumanNicknames",nicks)
+    # export_nicknames_to_csv("HumanNicknames",nicks)
