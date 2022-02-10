@@ -4092,3 +4092,325 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-14.15.01:084][134]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_StartF8E537C247098A8C52A9B7AEE965B05E.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
 [2022.02.10-14.15.01:108][134]AssetCheck: New page: Asset Save: L_Start
 [2022.02.10-14.15.01:108][134]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.15.38:850][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.15.38:890][661]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenu2021C42645DD2E22EB22738C52594327.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.15.38:904][661]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.15.38:904][661]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.15.41:349][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.15.41:376][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.02.10-14.15.41:383][858]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start23DD151B4BE7D0E591517891ED410486.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.15.41:401][858]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.15.41:401][858]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.15.46:635][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.15.46:688][310]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenuFF73F2454B83EC39CE255896BBF55A44.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.15.46:707][310]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.15.46:707][310]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.17.36:203][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.17.36:230][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.10-14.17.36:237][995]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_StartE3EB8FB44DFB9E325D72C79EDBC57316.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.17.36:259][995]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.17.36:259][995]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.17.40:387][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.17.40:411][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.10-14.17.40:417][315]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start50F6CC2E4A0EAD56308F7DA63DD978C9.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.17.40:439][315]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.17.40:439][315]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.17.43:719][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.17.43:744][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.02.10-14.17.43:751][587]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start379722AF4309EBB11BC6038DB0D1A68A.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.17.43:775][587]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.17.43:776][587]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.17.49:838][ 57]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.17.58:515][787]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.17.58:568][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.02.10-14.17.58:975][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.17.59:005][817]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatch28C6A63B475EEE5E50F7E39B2669DA5C.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.17.59:020][817]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.17.59:021][817]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.18.40:126][100]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.18.40:196][100]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2022.02.10-14.18.40:607][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.18.40:632][128]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatch15A85DC24F57DF3022855689FC5FDA1B.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.18.40:646][128]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.18.40:646][128]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.18.47:456][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.18.47:503][669]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenuE5C41E304ED7A995CF0777869C29ACD8.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.18.47:527][669]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.18.47:527][669]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.19.32:876][334]BlueprintLog: New page: Compile W_GameMenu
+[2022.02.10-14.19.32:944][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.02.10-14.19.33:407][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.19.33:449][377]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenu6448B7D745093240E07938A9965416B5.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.19.33:459][377]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.19.33:459][377]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.19.45:207][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.19.45:280][649]LogUObjectHash: Compacting FUObjectHashTables data took  14.06ms
+[2022.02.10-14.19.45:301][649]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start0797CFFE4A4C27CCA81D6CA189D66177.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.19.45:351][649]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.19.45:351][649]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.20.18:028][328]BlueprintLog: New page: Compile W_GameMenu
+[2022.02.10-14.20.18:089][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2022.02.10-14.20.18:462][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.20.18:515][345]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenuAD70C0D240C93FF1E3C4689F7F35E01C.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.20.18:530][345]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.20.18:530][345]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.20.29:789][236]BlueprintLog: New page: Compile W_GameMenu
+[2022.02.10-14.20.29:867][236]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.02.10-14.20.30:130][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.20.30:188][249]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenuDB1D7002410285B59D9C69B6B163E473.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.20.30:208][249]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.20.30:208][249]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.20.36:919][795]BlueprintLog: New page: Compile W_GameMenu
+[2022.02.10-14.20.37:034][795]LogUObjectHash: Compacting FUObjectHashTables data took  12.52ms
+[2022.02.10-14.20.37:294][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.20.37:356][812]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenu878B4A9346DAF9CBD6FE6BB260066C83.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.20.37:371][812]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.20.37:371][812]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.20.58:883][613]BlueprintLog: New page: Compile W_GameMenu
+[2022.02.10-14.20.58:956][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.02.10-14.20.59:244][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.20.59:300][631]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenuD22BD1144F926F765EB7DFB204838893.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.20.59:314][631]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.20.59:314][631]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.21.05:518][150]BlueprintLog: New page: Compile W_GameMenu
+[2022.02.10-14.21.05:585][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.02.10-14.21.05:923][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_GameMenu" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset" SILENT=true
+[2022.02.10-14.21.06:017][171]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_GameMenu9E9985544DEB7F1FD4FF449C4027A17A.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_GameMenu.uasset'
+[2022.02.10-14.21.06:034][171]AssetCheck: New page: Asset Save: W_GameMenu
+[2022.02.10-14.21.06:034][171]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_GameMenu.W_GameMenu
+[2022.02.10-14.21.06:894][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.21.06:926][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.02.10-14.21.06:934][246]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_StartF881B6F443BB4028DDDC03AB68F5EE6D.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.21.06:964][246]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.21.06:964][246]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.21.07:818][315]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-14.21.07:824][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-14.21.07:824][315]PIE: New page: PIE session: L_Start (10 lut 2022, 16:21:07)
+[2022.02.10-14.21.07:824][315]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_Start
+[2022.02.10-14.21.07:825][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001290s)
+[2022.02.10-14.21.07:826][315]LogAIModule: Creating AISystem for world L_Start
+[2022.02.10-14.21.07:827][315]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2022.02.10-14.21.07:827][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_Start.L_Start to /Game/UEDPIE_0_L_Start.L_Start (0.002584s)
+[2022.02.10-14.21.07:857][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.02.10-14.21.07:858][315]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-14.21.07:858][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-14.21.07:858][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-14.21.07:859][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-14.21.07:859][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-14.21.07:859][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-14.21.07:859][315]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-14.21.07:865][315]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-14.21.07:865][315]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-14.21.07:877][315]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.02.10-14.21.07:877][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-14.21.07:877][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-14.21.07:877][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-14.21.07:877][315]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-14.21.07:877][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-14.21.07:877][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-14.21.07:879][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-14.21.07:879][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-14.21.07:879][315]LogInit: FAudioDevice initialized.
+[2022.02.10-14.21.07:879][315]LogAudio: Display: Audio Device (ID: 28) registered with world 'L_Start'.
+[2022.02.10-14.21.07:888][315]LogLoad: Game class is 'GameModeBase'
+[2022.02.10-14.21.07:889][315]LogWorld: Bringing World /Game/UEDPIE_0_L_Start.L_Start up for play (max tick rate 0) at 2022.02.10-15.21.07
+[2022.02.10-14.21.07:889][315]LogWorld: Bringing up level for play took: 0.000290
+[2022.02.10-14.21.07:889][315]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.02.10-14.21.07:892][315]PIE: Server logged in
+[2022.02.10-14.21.07:892][315]PIE: Play in editor total start time 0,069 seconds.
+[2022.02.10-14.21.09:559][470]LogNet: Browse: /Game/L_Game
+[2022.02.10-14.21.09:559][470]LogLoad: LoadMap: /Game/L_Game
+[2022.02.10-14.21.09:559][470]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_Start
+[2022.02.10-14.21.09:559][470]LogWorld: UWorld::CleanupWorld for L_Start, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-14.21.09:559][470]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-14.21.09:612][470]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-14.21.09:615][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.10-14.21.09:616][470]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_Game
+[2022.02.10-14.21.09:617][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001013s)
+[2022.02.10-14.21.09:617][470]LogAIModule: Creating AISystem for world L_Game
+[2022.02.10-14.21.09:618][470]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2022.02.10-14.21.09:618][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_Game.L_Game to /Game/UEDPIE_0_L_Game.L_Game (0.002039s)
+[2022.02.10-14.21.09:618][470]LogAudio: Display: Audio Device (ID: 28) registered with world 'L_Game'.
+[2022.02.10-14.21.09:618][470]LogLoad: Game class is 'GameModeBase'
+[2022.02.10-14.21.09:619][470]LogWorld: Bringing World /Game/UEDPIE_0_L_Game.L_Game up for play (max tick rate 0) at 2022.02.10-15.21.09
+[2022.02.10-14.21.09:619][470]LogWorld: Bringing up level for play took: 0.000226
+[2022.02.10-14.21.09:619][470]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.10-14.21.09:620][470]LogLoad: Took 0.061404 seconds to LoadMap(/Game/UEDPIE_0_L_Game)
+[2022.02.10-14.21.32:759][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-14.21.32:759][474]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_Game
+[2022.02.10-14.21.32:759][474]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-14.21.32:759][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-14.21.32:766][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-14.21.32:772][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-14.21.32:799][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-14.21.32:799][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-14.21.32:800][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-14.21.32:805][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.10-14.21.32:857][476]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.02.10-14.21.33:462][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.21.33:489][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.10-14.21.33:495][520]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_StartBE5D9BD84F02EB9E3657E28658544517.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.21.33:514][520]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.21.33:514][520]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.21.33:781][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.21.33:819][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.02.10-14.21.33:825][545]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_StartEBAB89C74A0D81C15EB266884EE2B13D.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.21.33:847][545]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.21.33:847][545]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.21.37:712][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.21.37:744][851]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatch02C9CD624FBD310C244325BD6A9FC90E.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.21.37:766][851]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.21.37:766][851]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.22.20:665][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.22.20:692][683]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchEEAEC4CD472CBD24D218D2BBF9BD733E.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.22.20:714][683]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.22.20:714][683]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.24.49:583][452]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.24.49:675][452]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.02.10-14.24.49:918][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.24.50:036][474]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchDFCF6DCD4DF3147DEF6027809044B95C.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.24.50:060][474]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.24.50:060][474]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.25.50:716][334]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.25.50:785][334]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2022.02.10-14.25.51:106][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.25.51:147][359]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchA07FE21D40D3FF010F6E45A67A1E4843.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.25.51:165][359]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.25.51:165][359]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.26.35:728][459]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.26.35:800][459]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2022.02.10-14.26.36:157][485]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.26.36:197][485]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatch9B89EDC34C7616BE165A7E83C949924F.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.26.36:219][485]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.26.36:219][485]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.27.20:585][324]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.27.20:646][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.02.10-14.27.20:958][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.27.21:003][347]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatch3BEF1B514444864204A7329DAD2CAACC.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.27.21:020][347]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.27.21:020][347]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.27.26:946][890]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.27.27:020][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.02.10-14.27.27:307][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.27.27:336][909]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchC20CC9704FB768FAFC580DBA61939E21.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.27.27:356][909]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.27.27:356][909]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.28.18:179][283]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.28.18:252][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2022.02.10-14.28.18:593][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.28.18:710][308]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchEE6B93DD40E1677CB4990F90F13BD976.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.28.18:740][308]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.28.18:740][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.28.30:913][361]LogEditorTransaction: Undo Move Node
+[2022.02.10-14.28.41:672][211]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.28.41:733][211]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.02.10-14.28.42:067][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.28.42:127][230]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchAE475FC342E5BE203D85B399D533078E.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.28.42:145][230]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.28.42:145][230]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.28.43:111][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.28.43:142][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.10-14.28.43:148][307]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start81BE648140EE062C79139C9AD210B041.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.28.43:173][307]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.28.43:173][307]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.28.43:817][362]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-14.28.43:824][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-14.28.43:824][362]PIE: New page: PIE session: L_Start (10 lut 2022, 16:28:43)
+[2022.02.10-14.28.43:824][362]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_Start
+[2022.02.10-14.28.43:826][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001373s)
+[2022.02.10-14.28.43:827][362]LogAIModule: Creating AISystem for world L_Start
+[2022.02.10-14.28.43:827][362]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2022.02.10-14.28.43:827][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_Start.L_Start to /Game/UEDPIE_0_L_Start.L_Start (0.002805s)
+[2022.02.10-14.28.43:864][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.02.10-14.28.43:864][362]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-14.28.43:865][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-14.28.43:865][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-14.28.43:865][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-14.28.43:865][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-14.28.43:865][362]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-14.28.43:872][362]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-14.28.43:872][362]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-14.28.43:885][362]LogAudioMixer: Display: Using Audio Device Słuchawki (High Definition Audio Device)
+[2022.02.10-14.28.43:886][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-14.28.43:886][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-14.28.43:886][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-14.28.43:886][362]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-14.28.43:886][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-14.28.43:886][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-14.28.43:888][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-14.28.43:888][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-14.28.43:888][362]LogInit: FAudioDevice initialized.
+[2022.02.10-14.28.43:888][362]LogAudio: Display: Audio Device (ID: 29) registered with world 'L_Start'.
+[2022.02.10-14.28.43:894][362]LogLoad: Game class is 'GameModeBase'
+[2022.02.10-14.28.43:895][362]LogWorld: Bringing World /Game/UEDPIE_0_L_Start.L_Start up for play (max tick rate 0) at 2022.02.10-15.28.43
+[2022.02.10-14.28.43:895][362]LogWorld: Bringing up level for play took: 0.000295
+[2022.02.10-14.28.43:896][362]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.02.10-14.28.43:898][362]PIE: Server logged in
+[2022.02.10-14.28.43:899][362]PIE: Play in editor total start time 0,076 seconds.
+[2022.02.10-14.28.45:307][480]LogNet: Browse: /Game/L_Game
+[2022.02.10-14.28.45:307][480]LogLoad: LoadMap: /Game/L_Game
+[2022.02.10-14.28.45:307][480]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_Start
+[2022.02.10-14.28.45:308][480]LogWorld: UWorld::CleanupWorld for L_Start, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-14.28.45:308][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-14.28.45:374][480]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-14.28.45:377][480]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.10-14.28.45:377][480]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_L_Game
+[2022.02.10-14.28.45:379][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001056s)
+[2022.02.10-14.28.45:379][480]LogAIModule: Creating AISystem for world L_Game
+[2022.02.10-14.28.45:380][480]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2022.02.10-14.28.45:380][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/L_Game.L_Game to /Game/UEDPIE_0_L_Game.L_Game (0.002122s)
+[2022.02.10-14.28.45:380][480]LogAudio: Display: Audio Device (ID: 29) registered with world 'L_Game'.
+[2022.02.10-14.28.45:380][480]LogLoad: Game class is 'GameModeBase'
+[2022.02.10-14.28.45:380][480]LogWorld: Bringing World /Game/UEDPIE_0_L_Game.L_Game up for play (max tick rate 0) at 2022.02.10-15.28.45
+[2022.02.10-14.28.45:381][480]LogWorld: Bringing up level for play took: 0.000254
+[2022.02.10-14.28.45:381][480]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.02.10-14.28.45:383][480]LogLoad: Took 0.075575 seconds to LoadMap(/Game/UEDPIE_0_L_Game)
+[2022.02.10-14.28.56:689][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-14.28.56:689][387]LogWorld: BeginTearingDown for /Game/UEDPIE_0_L_Game
+[2022.02.10-14.28.56:689][387]LogWorld: UWorld::CleanupWorld for L_Game, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-14.28.56:689][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-14.28.56:699][387]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-14.28.56:703][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-14.28.56:729][387]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-14.28.56:729][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-14.28.56:731][387]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-14.28.56:735][387]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.10-14.28.56:756][388]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.02.10-14.28.57:428][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.28.57:459][440]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.02.10-14.28.57:467][440]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start7AB95CC44147895D4DA3CDB8F66D8C66.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.28.57:495][440]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.28.57:495][440]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.29.25:288][746]BlueprintLog: New page: Compile W_BookMatch
+[2022.02.10-14.29.25:336][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.02.10-14.29.25:748][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.29.25:858][774]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchE1B40EF8496DF76E99D95F90EBB6B6B1.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.29.25:884][774]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.29.25:884][774]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.29.30:277][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameMenu/W_BookMatch" FILE="../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset" SILENT=true
+[2022.02.10-14.29.30:310][129]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/W_BookMatchF06C88C344AC4547C6484FA748BA3BBA.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/GameMenu/W_BookMatch.uasset'
+[2022.02.10-14.29.30:329][129]AssetCheck: New page: Asset Save: W_BookMatch
+[2022.02.10-14.29.30:329][129]LogContentValidation: Display: Validating WidgetBlueprint /Game/GameMenu/W_BookMatch.W_BookMatch
+[2022.02.10-14.29.31:244][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.29.31:278][196]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.02.10-14.29.31:287][196]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_StartFBF44A2949D8500477582BA42E1D8F3B.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.29.31:311][196]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.29.31:311][196]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
+[2022.02.10-14.29.31:415][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/L_Start" FILE="../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.10-14.29.31:450][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.10-14.29.31:458][202]LogSavePackage: Moving '../../../../SlaveProject/SlaveProjectUE/Saved/L_Start935BB1254E491F75058E4886646A7C0C.tmp' to '../../../../SlaveProject/SlaveProjectUE/Content/L_Start.umap'
+[2022.02.10-14.29.31:481][202]AssetCheck: New page: Asset Save: L_Start
+[2022.02.10-14.29.31:481][202]LogContentValidation: Display: Validating World /Game/L_Start.L_Start
