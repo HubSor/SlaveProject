@@ -6,10 +6,7 @@
 /NAME:"UE4Editor-SlaveProjectUE.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\SlaveProjectUEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\SlaveProjectUE.cpp.obj"
-"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\SortingLibrary.cpp.obj"
-"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\SlaveProjectUE.init.gen.cpp.obj"
-"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\SortingLibrary.gen.cpp.obj"
-"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\Default.rc2.res"
-/OUT:"D:\Gry i Programy\SlaveProject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\UE4Editor-SlaveProjectUE.lib"
+"N:\slaveproject\SlaveProjectUE\Intermediate\Build\Win64\SlaveProjectUEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"N:\slaveproject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\SlaveProjectUE.cpp.obj"
+"N:\slaveproject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\Default.rc2.res"
+/OUT:"N:\slaveproject\SlaveProjectUE\Intermediate\Build\Win64\UE4Editor\Development\SlaveProjectUE\UE4Editor-SlaveProjectUE.lib"

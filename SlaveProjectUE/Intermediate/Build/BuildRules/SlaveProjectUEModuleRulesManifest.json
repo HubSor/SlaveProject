@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Gry i Programy\\SlaveProject\\SlaveProjectUE\\Source\\SlaveProjectUE\\SlaveProjectUE.Build.cs",
-		"D:\\Gry i Programy\\SlaveProject\\SlaveProjectUE\\Source\\SlaveProjectUE.Target.cs",
-		"D:\\Gry i Programy\\SlaveProject\\SlaveProjectUE\\Source\\SlaveProjectUEEditor.Target.cs"
+		"N:\\slaveproject\\SlaveProjectUE\\Source\\SlaveProjectUE\\SlaveProjectUE.Build.cs",
+		"N:\\slaveproject\\SlaveProjectUE\\Source\\SlaveProjectUE.Target.cs",
+		"N:\\slaveproject\\SlaveProjectUE\\Source\\SlaveProjectUEEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
